@@ -1,1 +1,50 @@
-# Analysis of Pizza Sales , creating KPIs, Sql-Queries and interactive dahshboard
+# Pizza Sales Analysis Dashboard
+
+## 📌 Overview
+This project analyzes pizza sales data to identify revenue trends, customer behavior, and key business performance metrics. The goal is to derive actionable insights that can support data-driven decision-making.
+
+## 🎯 Objective
+- Track overall revenue and sales performance
+- Identify peak sales hours and high-demand products
+- Analyze customer ordering patterns
+- Create KPIs to monitor business performance
+
+## 🛠 Tools & Technologies
+- SQL (Data Extraction & Querying)
+- Excel (Data Cleaning & Preprocessing)
+- Power BI (Interactive Dashboard & Visualization)
+
+## 📊 Key KPIs
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Top-Selling Pizzas
+- Peak Sales Hours
+
+## 🔍 Analysis Performed
+- Sales trend analysis over time
+- Category-wise and product-wise performance
+- Peak hour and high-demand period identification
+- Customer ordering behavior insights
+
+## 📈 Key Insights
+- Identified top-performing pizza categories contributing the highest revenue
+- Peak order volume observed during specific hours, indicating demand patterns
+- Certain products consistently outperformed others, helping optimize inventory decisions
+
+## 📊 Dashboard Features
+- Interactive filters for category and time-based analysis
+- Visual representation of KPIs and trends
+- User-friendly layout for quick business insights
+
+## 📸 Dashboard Preview
+(Add screenshots here)
+
+## 📂 Project Structure
+- SQL queries
+- Cleaned dataset (Excel)
+- Power BI dashboard file
+
+## 🚀 Impact
+- Improved understanding of sales patterns and customer preferences
+- Enabled data-driven decisions for product and sales strategy
