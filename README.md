@@ -1,58 +1,48 @@
-# Power BI Projects 📊
-
-A collection of Power BI projects focused on data analysis, visualization, business intelligence, and interactive dashboard development.
+A collection of Power BI projects focused on data visualization, dashboard development, and business insights.
 
 ## 📁 Projects
 
-### 1. Data Professional Survey Breakdown
+### 📊 Data Professional Survey Breakdown
 
-An interactive Power BI dashboard analyzing survey responses from data professionals.
+An interactive Power BI dashboard analyzing survey data from data professionals to explore career trends, compensation, job roles, and other industry insights.
 
-*Key Areas:*
-- Data professional demographics
-- Job roles and salaries
-- Programming language preferences
-- Work-life satisfaction
-- Difficulty entering the data industry
-- Geographic and career-related insights
+*Key skills demonstrated:*
 
-*Tools:* Power BI | Data Cleaning | Data Visualization | DAX
-
----
-
-### 2. Pizza Sales Analysis Dashboard 🍕
-
-An interactive dashboard analyzing pizza sales performance and customer ordering patterns.
-
-*Key Areas:*
-- Total revenue and sales
-- Orders and quantities
-- Best-selling pizzas
-- Sales by category
-- Sales by size
-- Daily and monthly trends
-- Customer ordering patterns
-
-*Tools:* Power BI | Data Analysis | Data Visualization | DAX
-
----
-
-## 🛠️ Skills Demonstrated
-
-- Power BI
 - Data Cleaning
 - Data Transformation
-- Data Modeling
-- DAX
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Business Insights
+
+🔗 [View Data Professional Survey Project](./Data%20Professional%20Survey%20Breakdown)
+
+---
+
+### 🍕 Pizza Sales Analysis Dashboard
+
+An interactive Power BI dashboard analyzing pizza sales data to understand revenue performance, sales trends, customer ordering patterns, and product performance.
+
+*Key skills demonstrated:*
+
+- Data Analysis
+- Data Cleaning
+- SQL Data Preparation
 - KPI Development
 - Data Visualization
 - Dashboard Design
 - Business Insights
-- 
+
+🔗 [View Pizza Sales Analysis Project](./Pizza%20Sales%20Analysis%20Dashboard)
 
 ---
 
+## 🛠️ Tools & Technologies
 
-## 🎯 Objective
-
-These projects demonstrate my ability to transform raw data into interactive dashboards and communicate meaningful business insights through data visualization.
+- Power BI
+- Power Query
+- SQL
+- Excel
+- DAX
+- Data Visualization
+- Data Analysis
