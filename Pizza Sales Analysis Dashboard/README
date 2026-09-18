@@ -1,47 +1,103 @@
-# Pizza Sales Analysis Dashboard
+# 🍕 Pizza Sales Analysis Dashboard
 
-## 📌 Overview
-This project analyzes pizza sales data to identify revenue trends, customer behavior, and key business performance metrics. The goal is to derive actionable insights that can support data-driven decision-making.
+An end-to-end data analysis project focused on understanding pizza sales performance, customer ordering patterns, product demand, and key business metrics using SQL, Excel, and Power BI.
 
-## 🎯 Objective
-- Track overall revenue and sales performance
-- Identify peak sales hours and high-demand products
-- Analyze customer ordering patterns
-- Create KPIs to monitor business performance
+## 📌 Project Overview
 
-## 🛠 Tools & Technologies
-- SQL (Data Extraction & Querying)
-- Excel (Data Cleaning & Preprocessing)
-- Power BI (Interactive Dashboard & Visualization)
+The project analyzes pizza sales data to identify revenue trends, high-performing products, customer ordering patterns, and periods of high demand.
+
+The analysis combines SQL-based data analysis with Power BI dashboard development to convert raw sales data into actionable business insights.
+
+## 🎯 Business Objectives
+
+- Analyze overall sales and revenue performance
+- Identify the best and worst-selling pizzas
+- Understand sales trends over time
+- Identify peak ordering hours and high-demand periods
+- Analyze performance across pizza categories and sizes
+- Track key business performance indicators
+
+## 🛠️ Tools & Technologies
+
+- *SQL* — Data querying and analytical analysis
+- *Excel* — Data cleaning and preprocessing
+- *Power BI* — Data modeling, DAX, interactive dashboard development and visualization
+- *Power Query* — Data transformation and preparation
 
 ## 📊 Key KPIs
+
 - Total Revenue
 - Total Orders
+- Total Pizzas Sold
 - Average Order Value
-- Top-Selling Pizzas
-- Peak Sales Hours
+- Average Pizzas per Order
+- Best-Selling Pizzas
+- Worst-Selling Pizzas
+- Peak Sales Periods
 
-## 🔍 Analysis Performed
-- Sales trend analysis over time
-- Category-wise and product-wise performance
-- Peak hour and high-demand period identification
-- Customer ordering behavior insights
+## 🔎 Analysis Performed
 
-## 📈 Key Insights
-- Identified top-performing pizza categories contributing the highest revenue
-- Peak order volume observed during specific hours, indicating demand patterns
-- Certain products consistently outperformed others, helping optimize inventory decisions
+### Sales Performance
+- Revenue and order trends over time
+- Daily and monthly sales patterns
+- Average order value analysis
 
-## 📊 Dashboard Features
-- Interactive filters for category and time-based analysis
-- Visual representation of KPIs and trends
-- User-friendly layout for quick business insights
+### Product Performance
+- Best and worst-selling pizzas
+- Category-wise sales performance
+- Size-wise sales analysis
+- Revenue contribution by product
 
-## 📂 Project Structure
-- SQL queries
-- Cleaned dataset (Excel)
-- Power BI dashboard file
+### Customer Ordering Patterns
+- Orders by time of day
+- Peak ordering hours
+- High-demand periods
+- Average pizzas ordered per order
 
-## 🚀 Impact
-- Improved understanding of sales patterns and customer preferences
-- Enabled data-driven decisions for product and sales strategy
+## 💡 Key Insights
+
+The analysis helps identify:
+
+- Products and categories contributing significantly to overall sales
+- Periods with higher customer demand
+- Differences in performance across pizza sizes and categories
+- Sales patterns that can support inventory and product planning
+- Business KPIs that can be monitored through an interactive dashboard
+
+## 📈 Dashboard
+
+The Power BI dashboard provides an interactive view of:
+
+- Sales KPIs
+- Revenue trends
+- Product performance
+- Category and size analysis
+- Time-based sales patterns
+- Best and worst-selling products
+
+## 📁 Project Files
+
+- pizza sales power bi project.pbit — Power BI report template
+- pizza_sales_data.csv — Source dataset
+- PIZZA SALES SQL QUARIES.docx — SQL analysis queries
+- Pizza Sales Report - Home.pdf — Dashboard preview
+- Pizza Sales Report - Best & Worst seller.pdf — Product performance dashboard
+- README — Project documentation
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning & Preparation
+- SQL Data Analysis
+- Exploratory Data Analysis
+- Data Transformation
+- Data Modeling
+- DAX
+- Power Query
+- KPI Development
+- Data Visualization
+- Dashboard Development
+- Business Insight Generation
+
+## 🚀 Project Outcome
+
+This project demonstrates the complete analytics workflow — from raw sales data and SQL analysis to data transformation and interactive Power BI reporting — with a focus on turning business data into clear and useful insights.
