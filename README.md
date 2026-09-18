@@ -46,3 +46,14 @@ An interactive Power BI dashboard analyzing pizza sales data to understand reven
 - DAX
 - Data Visualization
 - Data Analysis
+
+--- 
+
+## 🎯 Purpose
+
+These projects demonstrate my ability to transform raw data into interactive dashboards and communicate meaningful business insights through data visualization.
+
+## 👨‍💻 About
+
+*Meet Choudhary*  
+Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python.
